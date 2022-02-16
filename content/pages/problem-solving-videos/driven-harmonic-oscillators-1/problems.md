@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Driven Harmonic Oscillators
+parent_type: SupplementalResourceSection
 parent_uid: ccd258c9-9e21-f95c-6363-d6ee98034db2
 title: Problems
 uid: cca16ea1-32be-6301-0b9c-8d6407cc3dc3
@@ -40,7 +43,7 @@ A capacitor (of capacitance C), a resistor (of resistance R) and an inductor (of
 
 ![An RLC circuit connected to an AC voltage source.]({{< resource_file de02249c-029d-ec40-be2a-38aa808769b0 >}})
 
-Assuming that both the current and the charge of the capacitor are initially zero, determine the expression for \\(V\_C(t\\ge0)\\) with \\(\\omega=\\omega\_0=\\dfrac{1}{\\sqrt{LC}}\\) and \\(L < 4R^2C\\).
+Assuming that both the current and the charge of the capacitor are initially zero, determine the expression for \\(V\_C(t\\ge0)\\) with \\(\\omega=\\omega\_0=\\dfrac{1}{\\sqrt{LC}}\\) and \\(L \< 4R^2C\\).
 
 {{< div-with-class "reveal4">}}
 

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-8-005-vibrations-and-waves-problem-solving-fall-2012/7dee65e53237464d276c05489bc0d9ea_RES-8-005_classroom-1.jpg
+file: /media/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/7dee65e53237464d276c05489bc0d9ea_RES-8-005_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: RES-8-005_classroom-1.jpg
 uid: 7dee65e5-3237-464d-276c-05489bc0d9ea

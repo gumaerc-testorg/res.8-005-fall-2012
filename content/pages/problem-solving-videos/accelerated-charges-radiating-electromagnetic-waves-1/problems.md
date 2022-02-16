@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Accelerated Charges Radiating Electromagnetic Waves
+parent_type: SupplementalResourceSection
 parent_uid: 4776ee85-e077-48e5-3b43-8907554c7d5b
 title: Problems
 uid: dcbce3a0-ef5e-e7cd-e0b7-aafbd62557ad

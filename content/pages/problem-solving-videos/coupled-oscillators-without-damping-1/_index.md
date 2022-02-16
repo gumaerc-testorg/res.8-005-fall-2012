@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Problem Solving Videos
+parent_type: SupplementalResourceSection
 parent_uid: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
 title: Coupled Oscillators without Damping
 uid: aa292064-0a88-b394-2f27-c6d5da58e597

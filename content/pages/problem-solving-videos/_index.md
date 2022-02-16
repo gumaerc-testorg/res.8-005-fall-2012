@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Problem Solving Videos
 uid: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
 ---

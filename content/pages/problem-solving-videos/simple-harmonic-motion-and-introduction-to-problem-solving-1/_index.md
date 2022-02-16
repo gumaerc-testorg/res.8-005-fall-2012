@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Problem Solving Videos
+parent_type: SupplementalResourceSection
 parent_uid: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
 title: Simple Harmonic Motion and Introduction to Problem Solving
 uid: 207c7e08-46c3-a299-8535-75d357717ad6

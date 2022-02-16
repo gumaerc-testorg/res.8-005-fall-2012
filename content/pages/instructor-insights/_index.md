@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 24d4bf10-9328-183b-ac04-c52903d9144e
 ---
@@ -56,20 +58,6 @@ GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Large lecture hall as seen from the back of the room; approximately 230 chairs with writing tablets face a row of 3 tables at the front of the room. Three large sliding blackboards are behind the row of tables. A large white screen is to the side of the blackboards.]({{< resource_file 7dee65e5-3237-464d-276c-05489bc0d9ea >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    _8.03 Physics III_ lectures are typically taught in a large classroom, like the one pictured here. The room is equipped with multiple blackboards, audio-visual equipment, and tiered seating.
-    
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 

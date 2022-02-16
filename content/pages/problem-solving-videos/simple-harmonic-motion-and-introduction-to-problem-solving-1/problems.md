@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Simple Harmonic Motion and Introduction to Problem Solving
+parent_type: SupplementalResourceSection
 parent_uid: 207c7e08-46c3-a299-8535-75d357717ad6
 title: Problems
 uid: b6bd2599-51d7-fc8d-8b33-2d082fea261e

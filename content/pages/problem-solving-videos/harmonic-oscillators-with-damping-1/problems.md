@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Harmonic Oscillators with Damping
+parent_type: SupplementalResourceSection
 parent_uid: fe5a0c66-1af9-340e-4b31-33217f890c98
 title: Problems
 uid: a8b8dd22-0d73-43d0-3c09-3cc5acc938c9
@@ -50,7 +53,7 @@ The circuit shown above consists of a capacitor (\\(C\\)), an inductor (\\(L\\)
 
 1\.   Initial sign will be reversed only if the circuit is underdamped:
 
-i.e., \\(R < 2 \\sqrt{\\frac{L}{C}}\\)
+i.e., \\(R \< 2 \\sqrt{\\frac{L}{C}}\\)
 
 2.
 

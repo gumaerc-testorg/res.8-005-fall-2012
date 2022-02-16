@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-8-005-vibrations-and-waves-problem-solving-fall-2012/d8bd1536ae1b0e5c1dde8237ac8c5826_figure2_1.jpg
+file: /media/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/d8bd1536ae1b0e5c1dde8237ac8c5826_figure2_1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Figure2_1
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Problems
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Figure2_1.jpg
 uid: d8bd1536-ae1b-0e5c-1dde-8237ac8c5826

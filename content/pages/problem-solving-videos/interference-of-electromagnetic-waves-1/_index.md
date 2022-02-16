@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Problem Solving Videos
+parent_type: SupplementalResourceSection
 parent_uid: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
 title: Interference of Electromagnetic Waves
 uid: 084bc939-1b65-dcba-d51f-422f082cd5fb

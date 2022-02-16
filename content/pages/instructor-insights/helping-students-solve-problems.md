@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 24d4bf10-9328-183b-ac04-c52903d9144e
 title: Helping Students Solve Problems
 uid: 081f5669-5913-77e1-8bcc-4148844c2864

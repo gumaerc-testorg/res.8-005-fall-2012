@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Standing Waves Part I
+parent_type: SupplementalResourceSection
 parent_uid: dd113d06-b7b5-8820-a6a4-bb05b3fc8c7e
 title: Problems
 uid: 698d92b2-fdd0-264b-e12d-8e48379c6a95

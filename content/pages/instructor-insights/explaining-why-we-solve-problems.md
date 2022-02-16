@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 24d4bf10-9328-183b-ac04-c52903d9144e
 title: Explaining Why We Solve Problems
 uid: e03990ed-c527-7bb4-9f85-d24f969ef520

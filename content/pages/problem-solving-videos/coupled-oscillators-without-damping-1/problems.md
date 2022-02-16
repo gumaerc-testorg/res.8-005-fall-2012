@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Coupled Oscillators without Damping
+parent_type: SupplementalResourceSection
 parent_uid: aa292064-0a88-b394-2f27-c6d5da58e597
 title: Problems
 uid: 5d1b0e6e-cf36-7882-ae2e-2c30334bfe99

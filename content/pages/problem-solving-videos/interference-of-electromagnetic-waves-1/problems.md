@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Interference of Electromagnetic Waves
+parent_type: SupplementalResourceSection
 parent_uid: 084bc939-1b65-dcba-d51f-422f082cd5fb
 title: Problems
 uid: 2f0c8307-fee9-8330-bbaf-650b905c75e2
