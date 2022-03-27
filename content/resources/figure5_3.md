@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Problems
 parent_type: SupplementalResourceSection
+parent_uid: 9012f53e-e167-b95f-e40f-ac29abacb9cb
 resourcetype: Image
 title: figure5_3.jpg
 uid: f8ba893d-3971-559e-b70a-8100ba29a9a6

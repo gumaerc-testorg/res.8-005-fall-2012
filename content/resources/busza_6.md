@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Standing Waves Part I
 parent_type: SupplementalResourceSection
+parent_uid: dd113d06-b7b5-8820-a6a4-bb05b3fc8c7e
 resourcetype: Image
 title: Busza_6.jpg
 uid: b9f347cf-831e-d4ed-5bdb-a8a54c019bd3

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Articulating the Two Parts of Physics Problems
 parent_type: CourseSection
+parent_uid: d8d67c8f-f34d-dce9-cc7d-860bf86da693
 resourcetype: Image
 title: wit-problem.jpg
 uid: e3301b4c-8037-f44b-b3e3-84267057be4b

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Traveling Waves without Damping
 parent_type: SupplementalResourceSection
+parent_uid: ba9166b0-db76-b68d-dd88-13f5d5254275
 resourcetype: Image
 title: Busza_5.jpg
 uid: bd85d0f1-8af0-013a-0dde-387f60440bbf

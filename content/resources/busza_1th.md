@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Simple Harmonic Motion and Introduction to Problem Solving
 parent_type: SupplementalResourceSection
+parent_uid: 207c7e08-46c3-a299-8535-75d357717ad6
 resourcetype: Image
 title: Busza_1th.jpg
 uid: 9c9cbaa5-52fa-6a66-8a69-3095a86892a2

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Interference of Electromagnetic Waves
 parent_type: SupplementalResourceSection
+parent_uid: 084bc939-1b65-dcba-d51f-422f082cd5fb
 resourcetype: Image
 title: Busza_10.jpg
 uid: 7852d6b3-818a-560f-1f2d-244726ae07b5
