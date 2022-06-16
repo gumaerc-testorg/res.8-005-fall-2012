@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ Now, you have to take that description of the situation in ordinary language—s
 
 So this ball starts falling. How does it fall? And at this stage, you can visualize it, maybe, but you need the laws of nature to translate that into mathematical form. That ball goes faster and faster, which mathematically means that the second derivative of its position is not 0, but it is some constant—g in this case. So once you visualize the picture, even if you can imagine what goes on, you still now have to translate that into mathematics. And that's the physics—understanding nature, how the system behaves. All of this is the first part of doing the problem, and, I repeat, this is the hardest part. But most students think this is the easy part and the rest is hard!
 
-![Professor Wit Busza standing in front of a blackboard and gesturing toward a section of a flow diagram. The title of the flow diagram is 'Generic Problem.' The main sections of the flow diagram read as 'Description of situation in ordinary language,' 'Description in terms of math equations,' 'Solution of equations,' and 'Questions—what needs prediction.']({{< resource_file e3301b4c-8037-f44b-b3e3-84267057be4b >}})
+{{< resource e3301b4c-8037-f44b-b3e3-84267057be4b >}}
 
 Flow diagram for solving physics problems (from the Problem Solving Help Video, “Simple Harmonic Motion and Introduction to Problem Solving”).
 

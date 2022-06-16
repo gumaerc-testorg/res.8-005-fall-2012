@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Harmonic Oscillators with Damping
@@ -19,7 +20,7 @@ Using a force of 4 newtons, a damped harmonic oscillator is displaced from equil
 1.  The mass of the oscillator.
 2.  The quality factor of the oscillator.
 
- ![Graph showing results of displacement on the y axis and time on the x axis. The oscillations gradually move from large displacement to small displacement in sixty seconds.]({{< resource_file d8bd1536-ae1b-0e5c-1dde-8237ac8c5826 >}})
+ {{< resource d8bd1536-ae1b-0e5c-1dde-8237ac8c5826 >}}
 
 {{< div-with-class "toggle1">}}
 
@@ -37,7 +38,7 @@ Mass and _Q_ of oscillator are approximately 5 kg and 30, respectively.
 
 ### {{< anchor "problem2" >}}{{< /anchor >}}Problem 2
 
-![An RLC circuit with switch open at time zero.]({{< resource_file 01b66caa-2986-c6b2-5264-3f2097e0625e >}}) 
+{{< resource 01b66caa-2986-c6b2-5264-3f2097e0625e >}} 
 
 The circuit shown above consists of a capacitor (\\(C\\)), an inductor (\\(L\\)) and a resistor (\\(R\\)). Initially the switch is open and the charge (\\(Q\\)) on the capacitor is \\(Q(t \\leq 0) =Q\_0\\). At \\(t = 0\\), the switch is closed.
 
@@ -69,7 +70,7 @@ I(t) &= \\omega' Q\_{0} e^{-\\frac{\\gamma t}{2}} \\sin(\\omega't) + \\frac{\\ga
   
        Below are the sketches of \\(Q(t)\\) and \\(I(t)\\). Note that \\(I(0)=0\\) and both \\(Q(t)\\) and \\(I(t)\\) oscillate at the same frequency.
 
-![Two graphs showing results of displacement on the y axis and time on the x axis. The first graph shows the current and the second shows the charge.]({{< resource_file 9812a439-44b8-d633-00f7-ad7350cd65f2 >}})
+{{< resource 9812a439-44b8-d633-00f7-ad7350cd65f2 >}}
 
 3.
 
@@ -77,4 +78,4 @@ I(t) &= \\omega' Q\_{0} e^{-\\frac{\\gamma t}{2}} \\sin(\\omega't) + \\frac{\\ga
 
 {{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/harmonic-oscillators-with-damping-1) | [Next]({{< baseurl >}}/pages/problem-solving-videos/driven-harmonic-oscillators-1) »**
+**« {{% resource_link fe5a0c66-1af9-340e-4b31-33217f890c98 "Previous" %}} | {{% resource_link ccd258c9-9e21-f95c-6363-d6ee98034db2 "Next" %}} »**

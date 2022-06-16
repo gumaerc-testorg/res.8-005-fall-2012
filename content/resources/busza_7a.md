@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/20e1e3bf4be0e9837416bc906e4b44ce_Busza_7a.jpg
+file: /courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/20e1e3bf4be0e9837416bc906e4b44ce_Busza_7a.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

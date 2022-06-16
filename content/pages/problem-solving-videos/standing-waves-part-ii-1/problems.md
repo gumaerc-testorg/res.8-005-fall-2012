@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Standing Waves Part II
@@ -16,7 +17,7 @@ Standing Waves Part II
 
 An ideal taut string of length \\( l \\) and mass \\( m \\) is attached to a fixed point at one end and to a massive ring of mass \\( M\_R \\) at the other end as shown below. The ring is free to move on a horizontal frictionless rod which is perpendicular to the string in its equiibrium position. The tension in the string, \\( T \\), can be considered constant at all times and gravity can be ignored.
 
-![Sketch of a string stretched horizontally between two vertical axes with an open ring attached at one end. Lines and labels indicate lengths and values.]({{< resource_file 8747b964-cf3e-e5ae-0710-3b4afb8825de >}})
+{{< resource 8747b964-cf3e-e5ae-0710-3b4afb8825de >}}
 
 1.  Starting with the general form of the normal mode solutions of the classical wave equation for a taut string, derive an equation which, when solved, gives the angular frequency \\( \\omega \\) of the lowest mode of the system. YOU ARE NOT ASKED TO SOLVE THIS EQUATION.
 2.  Determine the angular frequency of the lowest normal mode for
@@ -42,7 +43,7 @@ An ideal taut string of length \\( l \\) and mass \\( m \\) is attached to a fix
 
 A system consists of two materials glued together at \\(x = L\\) and subject to longitudinal (sound) wave propagation. The end at \\(x = 0\\) is fixed and the end at \\(x = 4L\\) is free. A tungsten-lead alloy is used for the segment \\(0 \\leq x \\leq L\\), with a Young's modulus of \\(Y = 7 \\times 10^{10}\\) N/m\\(^2\\) and density \\(\\rho = 14.4 \\times 10^{3}\\) kg/m\\(^3\\), while the segment \\(L \\leq x \\leq 4L\\) is comprised of a carbon fiber alloy that is as strong as the tungsten-lead alloy with \\(Y = 7 \\times 10^{10}\\) N/m\\(^2\\) but nine times less dense, with \\(\\rho = 1.6 \\times 10^{3}\\) kg/m\\(^3\\).
 
-![A sketch of two tubes attached together end-to-end with lines and labels indicating values and directions.]({{< resource_file 6c440139-632e-5b6d-3907-3f09a49e5231 >}})
+{{< resource 6c440139-632e-5b6d-3907-3f09a49e5231 >}}
 
 1.  Derive a condition for the normal mode frequency of longitudinal oscillation, \\(\\omega\_n\\), of the two-metal system.
 2.  Evaluate the frequencies for the first four modes, in terms of the length \\(L\\).
@@ -69,4 +70,4 @@ The phase velocity \\(v\\) of longitudinal waves \\( = \\sqrt{\\dfrac{Y}{\\rho}}
 
 {{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/standing-waves-part-ii-1) | [Next]({{< baseurl >}}/pages/problem-solving-videos/electromagnetic-waves-in-a-vacuum-1) »**
+**« {{% resource_link 190b5c14-4d3e-ae61-2fdd-55047c189889 "Previous" %}} | {{% resource_link fdd03639-df5a-1302-a784-56591f1294b2 "Next" %}} »**

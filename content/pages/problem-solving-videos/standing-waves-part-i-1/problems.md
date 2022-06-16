@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Standing Waves Part I
@@ -8,35 +9,34 @@ parent_uid: dd113d06-b7b5-8820-a6a4-bb05b3fc8c7e
 title: Problems
 uid: 698d92b2-fdd0-264b-e12d-8e48379c6a95
 ---
-
 Standing Waves Part I
 ---------------------
 
 ### {{< anchor "problem1" >}}{{< /anchor >}}Problem 1
 
-![Sketch of an open-ended tube with lines and labels showing values, direction of air flow, and placement of membranes..]({{< resource_file f45d24c4-78f7-fef2-9d43-783daae24dbf >}})
+{{< resource f45d24c4-78f7-fef2-9d43-783daae24dbf >}}
 
 The figure above shows a long tube filled with air. The end located at \\(x=0\\) is closed with a cap, while the opposite end, located at \\(x=L\\) is open to the atmosphere. There are two thin membranes, one located at \\(L/5 - a\\), while the other is located at \\(x= L/5 + a\\), with \\(a \\ll L\\). In between the membranes (in the shaded region) the air pressure is a constant \\(P\_0 + \\Delta\\). At time \\(t=0\\) the membranes are broken.
 
 1.  What is the amplitude of the \\(n\\)-th normal pressure mode of this tube (without the membranes), regardless of whether or not it is excited?  
     {{< div-with-class "reveal1">}}
     
-    › _View/Hide Hint_
+› _View/Hide Hint_
     
     {{< /div-with-class >}}{{< div-with-class "toggle1">}}
     
-    The boundary conditions are \\( \\dfrac{dP}{dx} = 0\\) at \\(x = 0\\) and \\(P = 0\\) at \\(x = L.\\)
+The boundary conditions are \\( \\dfrac{dP}{dx} = 0\\) at \\(x = 0\\) and \\(P = 0\\) at \\(x = L.\\)
     
     {{< /div-with-class >}}
 2.  After the membranes are broken what is the lowest normal mode that is not excited?
 3.  Now suppose the end of the tube at \\(x=0\\) has the cap removed. How would your answer for part (2) change?  
     {{< div-with-class "reveal2">}}
     
-    › _View/Hide Hint_
+› _View/Hide Hint_
     
     {{< /div-with-class >}}{{< div-with-class "toggle2">}}
     
-    This part of the problem can be done without lengthy calculations.
+This part of the problem can be done without lengthy calculations.
     
     {{< /div-with-class >}}
 
@@ -56,28 +56,31 @@ The figure above shows a long tube filled with air. The end located at \\(x=0\\)
 
 An ideal taut string of length \\( 2L \\) is fixed at both ends. At time \\( t = 0 \\) it is stationary and distorted as shown below and is then released. The distortion can be decomposed into its Fourier components.
 
-![Sketch of a horizontal string suspended between two vertical axes with a rectangular bump in the middle. Lines and labes indicate values and direction.]({{< resource_file 425290be-829b-0994-fa68-36029a69418c >}})
+{{< resource 425290be-829b-0994-fa68-36029a69418c >}}
 
 1.  Derive an expression for the amplitude of the lowest frequency component. Your answer must not contain unevaluated integrals.
-2.  Prove that the components with the largest amplitude satisfy \\( \\lambda \\gg \\Delta \\) where \\( \\lambda \\) is the wavelength of the component, and that the amplitude of these components is approximately independent of \\( \\lambda \\).
 
-{{< div-with-class "reveal4">}}
+    {{< div-with-class "reveal4">}}
 
 › _View/Hide Answer_
 
-{{< /div-with-class >}}{{< div-with-class "toggle4">}}
+    {{< /div-with-class >}}{{< div-with-class "toggle4">}}
 
-1.  The amplitude of the lowest frequency component = \\(\\left (\\dfrac{4D}{\\pi}\\right ) \\sin \\left (\\dfrac{\\pi \\Delta}{4L}\\right )\\)
-2.  {{< div-with-class "reveal5">}}
+The amplitude of the lowest frequency component = \\(\\left (\\dfrac{4D}{\\pi}\\right ) \\sin \\left (\\dfrac{\\pi \\Delta}{4L}\\right )\\)
+
+    {{< /div-with-class >}}
+
+2.  Prove that the components with the largest amplitude satisfy \\( \\lambda \\gg \\Delta \\) where \\( \\lambda \\) is the wavelength of the component, and that the amplitude of these components is approximately independent of \\( \\lambda \\).
+
+    {{< div-with-class "reveal5">}}
     
-    › _View/Hide Hint_
+› _View/Hide Hint_
     
     {{< /div-with-class >}}{{< div-with-class "toggle5">}}
     
-    You can show that for odd frequency components and \\( \\lambda \\gg \\Delta \\), the amplitude is approximately \\( \\dfrac{\\Delta D}{L} \\), which is independent of \\(\\lambda\\). By symmetry, the amplitude is zero for even frequency components.
+You can show that for odd frequency components and \\( \\lambda \\gg \\Delta \\), the amplitude is approximately \\( \\dfrac{\\Delta D}{L} \\), which is independent of \\(\\lambda\\). By symmetry, the amplitude is zero for even frequency components.
     
     {{< /div-with-class >}}
 
-{{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/standing-waves-part-i-1) | [Next]({{< baseurl >}}/pages/problem-solving-videos/standing-waves-part-ii-1) »**
+**« {{% resource_link dd113d06-b7b5-8820-a6a4-bb05b3fc8c7e "Previous" %}} | {{% resource_link 190b5c14-4d3e-ae61-2fdd-55047c189889 "Next" %}} »**

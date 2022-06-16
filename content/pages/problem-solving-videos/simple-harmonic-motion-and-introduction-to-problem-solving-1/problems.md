@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Simple Harmonic Motion and Introduction to Problem Solving
@@ -16,7 +17,7 @@ Simple Harmonic Motion
 
 A spherical ball of radius \\(r\\) and mass \\(M\\), moving under the influence of gravity, rolls back and forth without slipping across the center of a bowl which is itself spherical with a larger radius \\(R\\). The position of the ball can be described by the angle \\(\\theta\\) between the vertical and a line drawn from the center of curvature of the bowl to the center of mass of the ball. Show that, for small displacements, \\(\\theta (t)\\) is harmonic and find the frequency of oscillation.
 
-![A semi-circular base with a ball part way up one side. Lines and labels indicate distances, direction of motion, and angles.]({{< resource_file f8d1d085-2874-f5ea-ae1d-9ce1c746966d >}})
+{{< resource f8d1d085-2874-f5ea-ae1d-9ce1c746966d >}}
 
 {{< div-with-class "reveal1">}}
 
@@ -62,4 +63,4 @@ You are told that after landing the bird oscillates with approximately simple ha
 
 {{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/simple-harmonic-motion-and-introduction-to-problem-solving-1) | [Next]({{< baseurl >}}/pages/problem-solving-videos/harmonic-oscillators-with-damping-1) »**
+**« {{% resource_link 207c7e08-46c3-a299-8535-75d357717ad6 "Previous" %}} | {{% resource_link fe5a0c66-1af9-340e-4b31-33217f890c98 "Next" %}} »**

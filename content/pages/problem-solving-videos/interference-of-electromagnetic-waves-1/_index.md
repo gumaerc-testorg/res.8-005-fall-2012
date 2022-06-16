@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Problem Solving Videos
@@ -12,14 +13,14 @@ uid: 084bc939-1b65-dcba-d51f-422f082cd5fb
 About this Video
 ----------------
 
-![]({{< resource_file 7852d6b3-818a-560f-1f2d-244726ae07b5 >}}) In this final session, we consider the interference of the electromagnetic waves that are produced by more than one charge oscillating sinusoidally. We only consider fields at locations sufficiently far from the charges, where all fields other than the radiated ones can be ignored, and the rays from every charge to the region of interest can be approximated to be parallel.
+{{< resource 7852d6b3-818a-560f-1f2d-244726ae07b5 >}} In this final session, we consider the interference of the electromagnetic waves that are produced by more than one charge oscillating sinusoidally. We only consider fields at locations sufficiently far from the charges, where all fields other than the radiated ones can be ignored, and the rays from every charge to the region of interest can be approximated to be parallel.
 
 {{< resource 635f60f9-bf40-be80-888f-7d1db2e06d40 >}}
 
 Related Problems
 ----------------
 
-*   [Interference of Electromagnetic Waves Problems 1 and 2]({{< baseurl >}}/pages/problem-solving-videos/interference-of-electromagnetic-waves-1/problems#problem1)
+*   {{% resource_link 2f0c8307-fee9-8330-bbaf-650b905c75e2 "Interference of Electromagnetic Waves Problems 1 and 2" "#problem1" %}}
 
 Related Lectures in _8.03 Physics III: Vibrations and Waves_ Course
 -------------------------------------------------------------------
@@ -27,4 +28,4 @@ Related Lectures in _8.03 Physics III: Vibrations and Waves_ Course
 *   [Lecture 15: Uncertainty Principle, 2D Waves](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/part-ii-electromagnetic-waves/lecture-15)
 *   [Lecture 20: Interference, Soap Bubble](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/part-iii-optics/lecture-20)
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/accelerated-charges-radiating-electromagnetic-waves-1/problems) | [Next]({{< baseurl >}}/pages/problem-solving-videos/interference-of-electromagnetic-waves-1/problems) »**
+**« {{% resource_link dcbce3a0-ef5e-e7cd-e0b7-aafbd62557ad "Previous" %}} | {{% resource_link 2f0c8307-fee9-8330-bbaf-650b905c75e2 "Next" %}} »**

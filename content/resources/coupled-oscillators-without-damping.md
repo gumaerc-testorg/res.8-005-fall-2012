@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3182'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Sample Problem
 optional_text: ''
 parent_title: Coupled Oscillators without Damping
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Coupled Oscillators without Damping
 uid: 96723087-6190-cdc0-ed3f-e8b0fcf8a837
 video_files:

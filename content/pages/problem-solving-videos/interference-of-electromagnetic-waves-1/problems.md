@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Interference of Electromagnetic Waves
@@ -20,7 +21,7 @@ About point \\( B \\) a second identical charge moves with constant speed \\( v 
 
 At \\( t = 0 \\) the first charge is at \\( \\left(x = \\dfrac{R}{\\sqrt{2}}, y = \\dfrac{R}{\\sqrt{2}}\\right) \\) and the second at \\( \\left(x = L - \\dfrac{R}{\\sqrt{2}}, y = \\dfrac{R}{\\sqrt{2}}\\right) \\) as shown below.
 
-![A large grid pattern with an upside-down V shape plitted. Lines and labels indicate values and direction.]({{< resource_file 7795e782-3063-dafb-5188-059371defa94 >}})
+{{< resource 7795e782-3063-dafb-5188-059371defa94 >}}
 
 1.  What is the wavelength \\( \\lambda \\) and frequency \\( \\nu \\) of the radiation from each charge?
 2.  Assuming \\(R \\ll \\lambda \\) and \\( \\lambda \\ll L \\), write an expression for the total radiated electric field \\( \\mathbf{E}(t) \\) and \\( \\mathbf{B}(t) \\) as a function of time \\( t \\) at the point \\( P \\left(x = \\dfrac{L}{2}, y = \\dfrac{L}{2}\\right) \\).
@@ -44,7 +45,7 @@ At positions \\( \\left (-\\dfrac{\\pi}{b}, y(t), 0\\right ) \\) and \\( \\left 
 
 There is an electromagnetic wave propagating in the \\( +x \\) direction with electric field \\( \\mathbf{E} = A \\mathbf{\\hat{y}} \\cos (at - bx) \\) (with \\( a > 0, b > 0\\)) which excites the two oscillators.
 
-![A horizontal line with two balls floating above at different heights on the y axis. Lines and labels indicate values and direction.]({{< resource_file 4c8e8355-449a-f648-3bc6-3eb8c39df81a >}})
+{{< resource 4c8e8355-449a-f648-3bc6-3eb8c39df81a >}}
 
 Write down an expression for the steady state total magnetic field due to only the radiation by the two charges, at the locations
 
@@ -76,4 +77,4 @@ $$ \\text{with} \\hspace{3mm} \\omega\_0 = \\sqrt{\\dfrac{k}{m}} $$
 
 {{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/interference-of-electromagnetic-waves-1)**
+**« {{% resource_link 084bc939-1b65-dcba-d51f-422f082cd5fb "Previous" %}}**

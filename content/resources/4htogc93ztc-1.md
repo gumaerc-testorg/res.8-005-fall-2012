@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/1a418b618ed2b33bb3070695e593cf4c_4hTOGc93ZTc.pdf
+file: /courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/1a418b618ed2b33bb3070695e593cf4c_4hTOGc93ZTc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

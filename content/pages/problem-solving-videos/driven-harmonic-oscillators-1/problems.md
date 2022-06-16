@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Driven Harmonic Oscillators
@@ -33,7 +34,7 @@ A torsional oscillator comprises a cylinder with moment of inertia, \\(I\\), han
 
 \\begin{align\*} & A(\\omega) = \\frac{\\omega\_0^2\\,\\phi\_0}{\\sqrt{\\left(\\omega\_0^2 - \\omega^2\\right)^2 + \\gamma^2\\,\\omega^2}}\\hspace{1mm}, \\hspace{4mm} & \\tan{\\delta(\\omega)} = \\frac{\\gamma\\,\\omega}{\\left(\\omega\_0^2 -\\omega^2\\right)} \\end{align\*}
 
-![Two plots. One for amplitude and one for phase.]({{< resource_file 4076308b-0045-cd91-beed-cf11c3d53197 >}})
+{{< resource 4076308b-0045-cd91-beed-cf11c3d53197 >}}
 
 {{< /div-with-class >}}
 
@@ -41,7 +42,7 @@ A torsional oscillator comprises a cylinder with moment of inertia, \\(I\\), han
 
 A capacitor (of capacitance C), a resistor (of resistance R) and an inductor (of inductance L) are connected to an AC voltage source \\(V = V\_0 \\sin(\\omega t)\\) starting at \\(t=0\\) as shown in the diagram below.
 
-![An RLC circuit connected to an AC voltage source.]({{< resource_file de02249c-029d-ec40-be2a-38aa808769b0 >}})
+{{< resource de02249c-029d-ec40-be2a-38aa808769b0 >}}
 
 Assuming that both the current and the charge of the capacitor are initially zero, determine the expression for \\(V\_C(t\\ge0)\\) with \\(\\omega=\\omega\_0=\\dfrac{1}{\\sqrt{LC}}\\) and \\(L \< 4R^2C\\).
 
@@ -53,4 +54,4 @@ Assuming that both the current and the charge of the capacitor are initially zer
 
 {{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/driven-harmonic-oscillators-1) | [Next]({{< baseurl >}}/pages/problem-solving-videos/coupled-oscillators-without-damping-1) »**
+**« {{% resource_link ccd258c9-9e21-f95c-6363-d6ee98034db2 "Previous" %}} | {{% resource_link aa292064-0a88-b394-2f27-c6d5da58e597 "Next" %}} »**

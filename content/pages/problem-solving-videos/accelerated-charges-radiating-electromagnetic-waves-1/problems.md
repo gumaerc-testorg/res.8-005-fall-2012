@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Accelerated Charges Radiating Electromagnetic Waves
@@ -32,7 +33,7 @@ To be compared with \\(eV\_0\\), the energy an electron would have as it strikes
 
 ### {{< anchor "problem2" >}}{{< /anchor >}}Problem 2
 
-![A vertical wall with a spring attached horizontally. A mass is attached to the end of the spring.]({{< resource_file 1c9c8633-3792-3854-bc37-ab72fcb02f92 >}})
+{{< resource 1c9c8633-3792-3854-bc37-ab72fcb02f92 >}}
 
 A charged particle of mass \\(M\\) and charge \\(+Q\\) is attached to the end of an ideal spring of spring constant \\(k\\). The spring is constrained to lie along the \\(x\\)-axis and at equilibrium the particle is at the origin. The particle is displaced from equilibrium by a distance \\(A\\) in the \\(x\\) direction, and released at \\(t=0\\). Assume that the size of the particle is much smaller than \\(A\\), so it can be treated as a point charge and that the damping rate is very small. Assume also that the structure and spring have no electromagnetic interactions with the charge Q or radiated field.
 
@@ -52,4 +53,4 @@ A charged particle of mass \\(M\\) and charge \\(+Q\\) is attached to the end of
 
 {{< /div-with-class >}}
 
-**« [Previous]({{< baseurl >}}/pages/problem-solving-videos/accelerated-charges-radiating-electromagnetic-waves-1) | [Next]({{< baseurl >}}/pages/problem-solving-videos/interference-of-electromagnetic-waves-1) »**
+**« {{% resource_link 4776ee85-e077-48e5-3b43-8907554c7d5b "Previous" %}} | {{% resource_link 084bc939-1b65-dcba-d51f-422f082cd5fb "Next" %}} »**
