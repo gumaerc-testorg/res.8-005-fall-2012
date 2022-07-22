@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: figure5_2
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Problems
 parent_type: SupplementalResourceSection
