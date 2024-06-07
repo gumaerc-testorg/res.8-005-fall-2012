@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/6f2909f16b51aaf39fc7c3faae19fa85_wF8vLZ9ceb0.pdf
+file_size: 69523
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
