@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/3d87c625babe6b9ea13f5482b3471ba0_uyofLz9Dtuw.srt
+file: /courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/3d87c625babe6b9ea13f5482b3471ba0_uyofLz9Dtuw.srt
 file_size: 86449
 file_type: application/x-subrip
 learning_resource_types: []
