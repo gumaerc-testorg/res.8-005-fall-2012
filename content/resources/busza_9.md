@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/49e0426d7e010e79b49c14dbd0c17027_Busza_9.jpg
+file: /ol-ocw-studio-app/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/49e0426d7e010e79b49c14dbd0c17027_Busza_9.jpg
 file_size: 4146
 file_type: image/jpeg
 image_metadata:
